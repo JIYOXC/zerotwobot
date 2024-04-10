@@ -45,3 +45,7 @@ For those who are coming to contribute to this project, please read [Contributin
 ## License
 Zero Two is Licensed Under GPL Version 3 [Read More Here](https://github.com/Black-Bulls-Bots/zerotwobot/blob/main/LICENSE)
  
+
+<h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀</h2> 
+ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
+<p align="center"><a href="https://github.com/JIYOXC/zerotwobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
